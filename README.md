@@ -13,6 +13,8 @@ Dim text fills the screen. Click anywhere and a ripple of water spreads out, lig
 
 **Other colours:** add them to the link as hex codes without the `#`. For example, the green version is [`ascii-ripple.html?ink=238B45`](https://matchamillefeuille.github.io/ascii-water/ascii-ripple.html?ink=238B45). `ink` sets the text colour and `bg` sets the background, such as `?ink=C7E9C0&bg=005A32`.
 
+To try colours side by side, open [`green-preview.html`](https://matchamillefeuille.github.io/ascii-water/green-preview.html). It lets you pick a green for the text and background and shows the ripple live.
+
 ## ascii-knot.html
 
 A thick 3D knot, shaded with letters, slowly turning.
